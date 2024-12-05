@@ -27,7 +27,7 @@ BruteForce Camera H.264
 To run the brute-force attack, execute the script with the following parameters:
 
 ```bash
-python bruteforce.py -H <target_ip> -p <target_port> -l <wordlist_file> [-t <threads>]
+python H.264.py -H <target_ip> -p <target_port> -l <wordlist_file> [-t <threads>]
 ```
 
 ### Arguments
